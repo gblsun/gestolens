@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:docs/Módulos",
+      "color": {
+        "a": 1,
+        "rgb": 2783446
+      }
+    },
+    {
+      "query": "path:docs/Exercícios",
+      "color": {
+        "a": 1,
+        "rgb": 15427636
+      }
+    },
+    {
+      "query": "path:docs/Conceitos",
+      "color": {
+        "a": 1,
+        "rgb": 1814394
+      }
+    },
+    {
+      "query": "path:docs/Avaliação",
+      "color": {
+        "a": 1,
+        "rgb": 15573248
+      }
+    },
+    {
+      "query": "path:docs/Resultados",
+      "color": {
+        "a": 1,
+        "rgb": 15236004
+      }
+    },
+    {
+      "query": "file:Início",
+      "color": {
+        "a": 1,
+        "rgb": 33536
+      }
+    },
+    {
+      "query": "file:README",
+      "color": {
+        "a": 1,
+        "rgb": 33536
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.9999999999999993,
+  "close": false
+}

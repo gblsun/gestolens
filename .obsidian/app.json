@@ -1,0 +1,13 @@
+{
+  "userIgnoreFilters": [
+    "saidas/",
+    "modelos/",
+    "gestos/",
+    "Vídeos Exercício mediapipe/",
+    "proposta/",
+    "ferramentas/"
+  ],
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true
+}

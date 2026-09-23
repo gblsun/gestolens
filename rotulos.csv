@@ -1,0 +1,9 @@
+video,inicio_s,fim_s,exercicio,lado,rotulo_esperado
+# Gabarito: uma linha por trecho. Linhas iniciadas por # sao ignoradas. Veja docs/Avaliação/Como preencher rotulos.csv.md
+# exercicio: ex1 (aberta|fechada|parcial) ex2 (0-5) ex3 (cima|baixo|outro) ex4 (aberta|fechada) ex5 (frente|esquerda|direita)
+# lado: esquerda | direita | vazio (qualquer mao). Ignorado em ex4 e ex5.
+# IMG_7459,1.5,2.5,ex3,direita,cima
+# IMG_7459,3.8,4.5,ex3,direita,baixo
+# IMG_7457,0.0,2.0,ex2,,5
+# IMG_7460,0.0,3.0,ex4,,aberta
+# IMG_7461,1.0,2.0,ex5,,esquerda

@@ -1,0 +1,7 @@
+mediapipe>=0.10.14
+opencv-python>=4.8
+numpy
+
+# Opcional: só para regenerar GIFs, figuras e gráficos (ferramentas/gerar_midia.py)
+# Pillow
+# matplotlib

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# Saídas geradas (CSV, vídeos anotados) e modelos baixados automaticamente
+saidas/
+modelos/
+
+# Estado local do Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
